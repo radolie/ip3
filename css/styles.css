@@ -1,0 +1,11 @@
+body{
+  text-align: center;
+  background-color:black;
+}
+.header{
+  background-image: url("../img/outdoor.jpg");
+}
+#pingpong{
+  font-size:5%;
+  font-style: italic;
+}
