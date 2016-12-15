@@ -1,11 +1,17 @@
-body{
-  text-align: center;
-  background-color:black;
+body {
+    text-align: center;
+    font-size: 30px;
 }
-.header{
-  background-image: url("../img/outdoor.jpg");
+.header {
+    background-image: url(../img/pingpong.gif);
+    width: 1400px;
+    height: 400px;
 }
-#pingpong{
-  font-size:5%;
-  font-style: italic;
+.empty {
+    background-color: aqua;
+    height: 500px;
+}
+.letsplay {
+    background-color: lightgray;
+    height: 500px;
 }
